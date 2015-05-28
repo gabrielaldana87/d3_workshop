@@ -1,0 +1,34 @@
+body {
+  font: 10px sans-serif;
+}
+
+.axis path,
+.axis line {
+  fill: none;
+  stroke: #000;
+  shape-rendering: crispEdges;
+}
+
+.dot {
+  stroke: #000;
+}
+
+.QUEENS{
+  fill: steelblue;
+}
+
+.RICHMOND{
+  fill:crimson;
+}
+
+.KINGS{
+  fill: #26A65B;
+}
+
+.BRONX{
+  fill: #F6AB36;
+}
+
+.MANHATTAN{
+  fill: #663398;
+}
